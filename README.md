@@ -10,7 +10,7 @@ Using FIFA22 data and linear optimization to pick a starting 11 for the Swedish 
 In this project I look at Google search data and try to visualize some trends and patterns in connection to Russians war on Ukraine.
 
 ### [Defining classes and methods in Python](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)
-[![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) [![](https://img.shields.io/badge/Status-Ongoing-yellow)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)<br>
+[![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) [![](https://img.shields.io/badge/Status-Ongoing-red)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)<br>
 The goal of the project is to create a new class to represent the inventory of a laptop retailer.
 The class will automatically load in a .csv file from the web and I'll also define methods that belongs to the new class. 
 These methods will help us answer different business questions such as how many laptops are currently in stock etc.
