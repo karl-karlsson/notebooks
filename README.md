@@ -19,12 +19,22 @@ Using FIFA22 data and linear optimization to pick a starting 11 for the Swedish 
 [![](https://img.shields.io/badge/-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/google_trends.ipynb) [![](https://img.shields.io/badge/-tidyverse-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/google_trends.ipynb) [![](https://img.shields.io/badge/-gtrendsR-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/google_trends.ipynb) [![](https://img.shields.io/badge/-maps-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/google_trends.ipynb) [![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/google_trends.ipynb)<br>
 In this project I look at Google search data and try to visualize some trends and patterns in connection to the war in Ukraine.
 
+### [Analyzing sales from a digital media store
+](https://github.com/karl-karlsson/notebooks/blob/main/chinook.ipynb)
+[![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/chinook.ipynb)
+[![](https://img.shields.io/badge/pandas-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/chinook.ipynb) 
+[![](https://img.shields.io/badge/plotnine-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/chinook.ipynb) 
+[![](https://img.shields.io/badge/SQLite-black?logo=SQLite)](https://github.com/karl-karlsson/notebooks/blob/main/chinook.ipynb) 
+[![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/chinook.ipynb)<br>
+Writing some helper functions that makes querying the database from Python a breeze. Then try to answer differents business questions such as
+what albums to buy based on genre statistics or how do sales differ between countries?
+
 ### [Exploring CIA factbook using Python and SQL](https://github.com/karl-karlsson/notebooks/blob/main/CIA_factbook.ipynb)
-[![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)
-[![](https://img.shields.io/badge/pandas-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) 
-[![](https://img.shields.io/badge/plotnine-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) 
-[![](https://img.shields.io/badge/SQLite-black?logo=SQLite)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) 
-[![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)<br>
+[![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/CIA_factbook.ipynb)
+[![](https://img.shields.io/badge/pandas-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/CIA_factbook.ipynb) 
+[![](https://img.shields.io/badge/plotnine-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/CIA_factbook.ipynb) 
+[![](https://img.shields.io/badge/SQLite-black?logo=SQLite)](https://github.com/karl-karlsson/notebooks/blob/main/CIA_factbook.ipynb) 
+[![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/CIA_factbook.ipynb)<br>
 Querying the CIA factbook using SQL and creating some intereseting visualizations using plotnine.
 <br>For example:
 * how does the population size of Sweden compare to other countries?
