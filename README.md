@@ -44,8 +44,8 @@ Querying the CIA factbook using SQL and creating some intereseting visualization
 [![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb)
 [![](https://img.shields.io/badge/pandas-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb) 
 [![](https://img.shields.io/badge/plotnine-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb) 
-[![](https://img.shields.io/badge/PostegreSQL-black?logo=Postegresql)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb)
-[![](https://img.shields.io/badge/Azure-blue?logo=Azure)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb) 
+[![](https://img.shields.io/badge/PostegreSQL-black?logo=postgres)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb)
+[![](https://img.shields.io/badge/Azure-blue?logo=msazure)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb) 
 [![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb)<br>
 
 Querying the CIA factbook using SQL and creating some intereseting visualizations using plotnine.
