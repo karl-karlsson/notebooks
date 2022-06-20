@@ -51,10 +51,6 @@ Querying the CIA factbook using SQL and creating some intereseting visualization
 Setting up my own PostgreSQL server on MS Azure. Creating a 'football.db' with data on teams and players in Swedish football between 2007 and 2015.
 Migrating data from .xls to SQL using psycopg2.
 
-
-
-https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb
-
 ### [Inventory management using Python](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)
 [![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) [![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)<br>
 The goal of the project is to create a new class to represent the inventory of a laptop retailer.
