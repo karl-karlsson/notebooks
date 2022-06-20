@@ -40,6 +40,23 @@ Querying the CIA factbook using SQL and creating some intereseting visualization
 * what countries are densely populated?
 * how is birth rates and death rates of countries related to population growth? 
 
+### [Setting up my own PostegreSQL database on Azure](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb)
+[![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb)
+[![](https://img.shields.io/badge/pandas-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb) 
+[![](https://img.shields.io/badge/plotnine-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb) 
+[![](https://img.shields.io/badge/PostegreSQL-black?logo=Postegresql)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb)
+[![](https://img.shields.io/badge/Azure-blue?logo=Azure)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb) 
+[![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb)<br>
+
+Querying the CIA factbook using SQL and creating some intereseting visualizations using plotnine.
+<br>For example:
+* how does the population size of Sweden compare to other countries?
+* what countries are densely populated?
+* how is birth rates and death rates of countries related to population growth? 
+
+
+https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb
+
 ### [Inventory management using Python](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)
 [![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) [![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)<br>
 The goal of the project is to create a new class to represent the inventory of a laptop retailer.
